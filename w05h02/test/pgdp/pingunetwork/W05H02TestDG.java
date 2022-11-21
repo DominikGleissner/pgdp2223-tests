@@ -1,4 +1,4 @@
-package pgdp.pingunetwork;
+package pgdp.pingunework;
 
 import org.junit.jupiter.api.*;
 
